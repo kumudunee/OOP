@@ -1,0 +1,125 @@
+[
+	{
+		_id: "Titanic_2001",
+		name:"Titanic",
+		released_on : "2001-03-28T04:47:21Z",
+                genre: ["romance","drama"],
+		actors:[
+			{"name": "Leonardo Dicaprio",
+			  "age" :54
+			},
+			{"name": "Kate Winslet",
+			  "age" :45
+			} 
+		],
+                location: {
+			country: "US",
+			city: "Newyork"
+		},
+		rating:4,
+		description : "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic"
+        },
+        {
+		_id:"Sunshine_2009",
+		name:"Sunshine",
+		released_on : "2009-01-25T04:47:21Z",
+		genre: ["sci-fi","thriller"],
+		actors:[
+			{"name": "Cliff Curtis",
+			  "age" :52
+			},
+			{"name": "Chipo Chung",
+			  "age" :44
+			},
+			{"name": "Rebecca Williams",
+			  "age" :55
+			} 
+		],
+		rating:3.5,
+		location: {
+			country: "US",
+			city: "Los Vegas"
+		},
+		description : "A team of international astronauts are sent on a dangerous mission to reignite the dying Sun with a nuclear fission bomb in 2057."
+	},
+         {
+		_id: "Forest_2005",
+		name:"Forest Gump",
+		released_on : "2005-05-19T04:47:21Z",
+		genre: ["drama","romance"],
+		actors:[
+			{"name": "Tom Hanks",
+			  "age" :56
+			},
+			{"name": "",
+			  "age" :47
+			} 
+		],
+		location: {
+			country: "UK",
+			city: "London"
+		},
+		rating:3,
+		description: "A team of international astronauts are sent on a dangerous mission to reignite the dying Sun with a nuclear fission bomb in 2057."
+	},
+        {
+		_id:"Idiots_2004",
+		name:"3 Idiots",
+		released_on : "2004-07-13T04:47:21Z",
+                genre: ["drama","comedy","romance"],
+		actors:[
+			{"name": "Aamir Khan",
+			  "age" :55
+			},
+			{"name": "Kareena Kapoor",
+			  "age" :38
+			} 
+		],
+		location: {
+			country: "India",
+			city: "Delhi"
+		},
+		rating:4.5,
+		description: "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them idiots"
+	},
+        {
+		_id:"Inception_2006",
+		name:"Inception",
+		released_on : "2006-09-11T04:47:21Z",
+		genre: ["action","adventure","sci-fi"],
+		actors:[
+			{"name": "Leonardo Dicaprio",
+			  "age" :54
+			},
+			{"name": "Joseph Gordon-Levitt",
+			  "age" :45
+			} 
+		],
+		location: {
+			country: "US",
+			city: "California"
+		},
+		rating:4,
+                description: "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O."
+	},
+        {
+		_id:"Wolf_2009",
+		name:"Wolf of wall street",
+		released_on : "2009-11-25T04:47:21Z",
+		genre: ["action","adventure","drama"],
+		actors:[
+			{"name": "Leonardo Dicaprio",
+			  "age" :54
+			},
+			{"name": "Margot Robbie",
+			  "age" :44
+			} 
+		],
+		location: {
+			country: "UK",
+			city: "Cornwall"
+		},
+		rating:3.5,
+		description: "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government."
+	}
+]
